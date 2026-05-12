@@ -1,5 +1,5 @@
 Protocole Lucas V2.1
-Créé par : Hugo Somon — Avril 2026
+Créé par : Hugo Somon — Mai 2026
 
 ---
 
