@@ -1,4 +1,4 @@
-# Protocole Lucas — V2 Hybride
+# Protocole Lucas V2.1
 
 > *Une IA qui résiste. Vraiment.*
 
