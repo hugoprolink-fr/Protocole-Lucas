@@ -1,6 +1,6 @@
 # Licence — Creative Commons BY-NC-ND 4.0
 
-**Protocole Lucas V2 — Hybride**  
+**Protocole Lucas V2.1**  
 Créé par Hugo · 2026
 
 ---
